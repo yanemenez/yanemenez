@@ -1,4 +1,4 @@
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/9c69a790-bc6c-4fc0-8268-7af04dd6d576">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/4d75a96c-1bfe-4d48-b109-6b53cc7ffbc2">
 
 
 #### Tecnologias que estou aprendendo:
