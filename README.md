@@ -17,18 +17,13 @@
 <br>
 
 <div> 
-  <a href = "mailto:loyanemenezes.tec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:loyanemenezes.tec@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL"></a>
   <a href="https://www.linkedin.com/in/loyane-menezes-218722272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
 </div>
 
-<div align="center">
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/yanemenez?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark_green) 
-
-</div>
 
 
 
