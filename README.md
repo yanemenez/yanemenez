@@ -36,11 +36,11 @@
     <td align="center" width="96">
         <img src="https://github.com/user-attachments/assets/61ec1abb-1eba-4c39-bcb7-6d396d00643f" width="65" height="65" alt="Django" />
       <br>PowerBI
-    </td>           
+    </td>
  </tr>
 </table>
 </div>
 
-
+<img src="https://github.com/user-attachments/assets/f5a4a4f9-db58-467d-935c-424175a56abe">
 
 
