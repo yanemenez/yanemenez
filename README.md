@@ -1,6 +1,5 @@
 
-#### Tecnologias que estou aprendendo:
-
+<h2 align="center">Linguagens e ferramentas que estou aprendendo:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="left">
   <tr>
@@ -42,7 +41,7 @@
 </div>
 
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/4d75a96c-1bfe-4d48-b109-6b53cc7ffbc2">
+<img align="left" alt="" height="190px" src="https://github.com/user-attachments/assets/4d75a96c-1bfe-4d48-b109-6b53cc7ffbc2">
 
 
 
