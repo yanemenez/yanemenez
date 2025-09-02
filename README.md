@@ -20,7 +20,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/-icon.javasvg" alt="icon" width="55" height="55" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
       <br>Java
     </td>
     <td align="center" width="96">
