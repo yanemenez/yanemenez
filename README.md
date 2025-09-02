@@ -34,10 +34,13 @@
     <td align="center" width="96"> 
         <img src="https://github.com/user-attachments/assets/9b0aaec1-7a64-43d6-8778-99982a83cb48" width="55" height="55" alt="Git" />
       <br>MongoDB
+    <td align="center" width="96">
+        <img src="https://github.com/user-attachments/assets/c28fdb5a-2d6a-4bc6-a2e0-d132f5df69a6" alt="icon" width="55" height="55" />
+      <br>Spring
  </tr>
 </table>
 </div>
 
-<img src="https://github.com/user-attachments/assets/f5a4a4f9-db58-467d-935c-424175a56abe">
+
 
 
