@@ -20,8 +20,8 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
+        <img src="https://techstack-generator.vercel.app/-icon.javasvg" alt="icon" width="55" height="55" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://github.com/user-attachments/assets/8ff1cd9b-0321-490b-9a34-da157c4708c1" alt="icon" width="55" height="55" />
