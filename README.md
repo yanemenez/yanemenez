@@ -11,9 +11,6 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="left">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
@@ -31,9 +28,6 @@
         <img src="https://github.com/user-attachments/assets/9e02f868-b734-41c8-baca-dd764218bf5d" alt="icon" width="55" height="55" />
       <br>GitHub
     </td>
-    <td align="center" width="96"> 
-        <img src="https://github.com/user-attachments/assets/9b0aaec1-7a64-43d6-8778-99982a83cb48" width="55" height="55" alt="Git" />
-      <br>MongoDB
     <td align="center" width="96">
         <img src="https://github.com/user-attachments/assets/c28fdb5a-2d6a-4bc6-a2e0-d132f5df69a6" alt="icon" width="55" height="55" />
       <br>Spring
